@@ -4,7 +4,6 @@ Welcome to my GitHub profile!
 I'm a passionate **Frontend Developer** with expertise in crafting modern, responsive, and user-friendly web applications.  
 With a strong foundation in **HTML, CSS, JavaScript, and TypeScript**, I specialize in building scalable and maintainable front-end solutions using cutting-edge frameworks like **React, Next.js, and Tailwind CSS**.
 
----
 
 ---
 
@@ -19,15 +18,17 @@ With a strong foundation in **HTML, CSS, JavaScript, and TypeScript**, I special
 - **Languages:** JavaScript (ES6+), TypeScript
 - **Frameworks/Libraries:** React, Next.js, Redux Toolkit, Tailwind CSS
 - **Tools & Platforms:** VS Code, Git, GitHub
-- **Certifications:** [3D Graphics Design](https://github.com/SaimrRazaAly/HTML-CSS-JS-Work/blob/main/3dgb%20SAIM.png)
+- **Certifications:** [Frontend Development](https://github.com/SaimrRazaAly/HTML-CSS-JS-Work/blob/main/3dgb%20SAIM.png)
 
 ---
 
 ## 🚀 Projects
+
 ### [Brainwave](https://brainwave-gold-nine.vercel.app/)
 An innovative project showcasing my expertise in front-end development, built with modern technologies and a focus on usability and performance.
 
----
+[![Brainwave Screenshot](https://i.ibb.co/Kqdv8j1/Image-from.png)](https://brainwave-gold-nine.vercel.app/)
+
 
 ## 📈 GitHub Stats
 
