@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Saim Raza
 
-Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with expertise in crafting modern, responsive, and user-friendly web applications. With a strong foundation in **HTML, CSS, JavaScript, and TypeScript**, I specialize in building scalable and maintainable front-end solutions using cutting-edge frameworks like **React, Next.js, and Tailwind CSS**.
+Welcome to my GitHub profile!  
+I'm a passionate **Frontend Developer** with expertise in crafting modern, responsive, and user-friendly web applications.  
+With a strong foundation in **HTML, CSS, JavaScript, and TypeScript**, I specialize in building scalable and maintainable front-end solutions using cutting-edge frameworks like **React, Next.js, and Tailwind CSS**.
+
+---
+
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
@@ -15,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with exper
 - **Languages:** JavaScript (ES6+), TypeScript
 - **Frameworks/Libraries:** React, Next.js, Redux Toolkit, Tailwind CSS
 - **Tools & Platforms:** VS Code, Git, GitHub
-- **Certifications:** [Frontend Developmebt](https://github.com/SaimrRazaAly/HTML-CSS-JS-Work/blob/main/3dgb%20SAIM.png)
+- **Certifications:** [3D Graphics Design](https://github.com/SaimrRazaAly/HTML-CSS-JS-Work/blob/main/3dgb%20SAIM.png)
 
 ---
 
@@ -25,18 +31,18 @@ An innovative project showcasing my expertise in front-end development, built wi
 
 ---
 
-## 🌐 Connect with Me
-- [LinkedIn Profile](https://www.linkedin.com/in/saim-raza-610511327/)
+## 📈 GitHub Stats
 
----
-
-## 📊 GitHub Stats
-![Saim Raza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaimRazaAly&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaimRazaAly&layout=compact&theme=radical)
+<!-- GitHub Stats -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaimrRazaAly&show_icons=true&theme=radical" alt="Saim Raza's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimRazaAly&layout=compact&theme=radical" alt="Saim Raza's Top Languages"/>
+</div>
 
 ---
 
 ## 🏅 Badges
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -51,4 +57,11 @@ An innovative project showcasing my expertise in front-end development, built wi
 
 ---
 
+## 🌐 Connect with Me
+- [LinkedIn Profile](https://www.linkedin.com/in/saim-raza-610511327/)
+
+---
+
 ✨ **Let’s build something amazing together!**
+
+![Footer GIF](https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif)
