@@ -6,8 +6,6 @@ With a strong foundation in **HTML, CSS, JavaScript, and TypeScript**, I special
 
 ---
 
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 ---
 
 ## 🌟 About Me
@@ -36,12 +34,11 @@ An innovative project showcasing my expertise in front-end development, built wi
 <!-- GitHub Stats -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaimrRazaAly&show_icons=true&theme=radical" alt="Saim Raza's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaimRazaAly&layout=compact&theme=radical" alt="Saim Raza's Top Languages"/>
 </div>
 
 ---
 
-## 🏅 Badges
+## 🏅 Languages & Tools
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,4 +61,3 @@ An innovative project showcasing my expertise in front-end development, built wi
 
 ✨ **Let’s build something amazing together!**
 
-![Footer GIF](https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif)
