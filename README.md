@@ -6,19 +6,27 @@ Let’s build something amazing together! 🚀
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects
 
-### [Brainwave](https://brainwave-gold-nine.vercel.app/)  
-A sleek web app focused on usability and performance.  
+<div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap; gap: 20px; padding: 20px;">
 
-### [Food_Delivery_App](https://food-dilevery-omega.vercel.app/)  
-A project made by react and context api showcasing awsome features about a modern and responsive web app
+  <div style="background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 30%; padding: 20px; text-align: center; transition: transform 0.3s ease;">
+    <h3><a href="https://brainwave-gold-nine.vercel.app/" style="text-decoration: none; color: #007bff;">Brainwave</a></h3>
+    <p>A sleek web app focused on usability and performance.</p>
+  </div>
 
-### [Ev_Landing_apge](https://ev-landing-page-using-react.vercel.app/)  
-A prject with aswome hero sectoin of a Ev car company
+  <div style="background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 30%; padding: 20px; text-align: center; transition: transform 0.3s ease;">
+    <h3><a href="https://food-dilevery-omega.vercel.app/" style="text-decoration: none; color: #007bff;">Food Delivery App</a></h3>
+    <p>A project made with React and Context API showcasing awesome features of a modern and responsive web app.</p>
+  </div>
 
+  <div style="background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 30%; padding: 20px; text-align: center; transition: transform 0.3s ease;">
+    <h3><a href="https://ev-landing-page-using-react.vercel.app/" style="text-decoration: none; color: #007bff;">Ev Landing Page</a></h3>
+    <p>A project with an awesome hero section for an EV car company.</p>
+  </div>
 
----
+</div>
+
 
 ## 🌐 Connect  
 <p align="left">
