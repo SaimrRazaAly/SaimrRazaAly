@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Saim Raza  
+a passionate and driven **Frontend Developer**. I specialize in creating seamless, interactive, and accessible web applications that focus on delivering exceptional user experiences. With a strong foundation in **HTML, CSS, JavaScript, and TypeScript**, I thrive on turning complex problems into simple, intuitive solutions.  
+I’m particularly excited about working with modern frameworks and libraries like **React**, **Next.js**, and **Tailwind CSS** to build scalable and efficient web applications. 
+Let’s build something amazing together! 🚀  
 
-Passionate **Frontend Developer** crafting modern, responsive, and user-friendly web applications.  
 
 ---
 
@@ -9,25 +11,12 @@ Passionate **Frontend Developer** crafting modern, responsive, and user-friendly
 ### [Brainwave](https://brainwave-gold-nine.vercel.app/)  
 A sleek web app focused on usability and performance.  
 
-[![Brainwave Screenshot](https://i.ibb.co/Kqdv8j1/Image-from.png)](https://brainwave-gold-nine.vercel.app/)  
+### [Food_Delivery_App](https://food-dilevery-omega.vercel.app/)  
+A project made by react and context api showcasing awsome features about a modern and responsive web app
 
----
+### [Ev_Landing_apge](https://ev-landing-page-using-react.vercel.app/)  
+A prject with aswome hero sectoin of a Ev car company
 
-## 🛠️ Tech Stack  
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=white&logoWidth=20" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=white&logoWidth=20" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=white&logoWidth=20" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=white&logoWidth=20" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=white&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=white&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=white&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=white&logoWidth=20" />
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white&labelColor=white&logoWidth=20" />
-  <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white&labelColor=white&logoWidth=20" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white&labelColor=white&logoWidth=20" />
-</p>
 
 ---
 
