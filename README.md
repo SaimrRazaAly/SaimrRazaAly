@@ -1,38 +1,63 @@
-# 👋 Hi, I'm Saim Raza  
-a passionate and driven **Frontend Developer**. I specialize in creating seamless, interactive, and accessible web applications that focus on delivering exceptional user experiences. With a strong foundation in **HTML, CSS, JavaScript, and TypeScript**, I thrive on turning complex problems into simple, intuitive solutions.  
-I’m particularly excited about working with modern frameworks and libraries like **React**, **Next.js**, and **Tailwind CSS** to build scalable and efficient web applications. 
-Let’s build something amazing together! 🚀  
+# 👋 Hi, I'm Saim Raza
 
+Welcome to my GitHub profile!  
+I'm a passionate **Frontend Developer** with expertise in crafting modern, responsive, and user-friendly web applications.  
+With a strong foundation in **HTML, CSS, JavaScript, and TypeScript**, I specialize in building scalable and maintainable front-end solutions using cutting-edge frameworks like **React, Next.js, and Tailwind CSS**.
+
+
+---
+
+## 🌟 About Me
+- 💻 A Frontend Developer focused on delivering high-quality user experiences.
+- 🚀 Skilled in creating dynamic, performant, and accessible web interfaces.
+- 🎯 Interested in **Frontend Development** and exploring the potential of **AI** in web technologies.
+
+---
+
+## 🛠️ My Tech Stack
+- **Languages:** JavaScript (ES6+), TypeScript
+- **Frameworks/Libraries:** React, Next.js, Redux Toolkit, Tailwind CSS
+- **Tools & Platforms:** VS Code, Git, GitHub
+- **Certifications:** [Frontend Development](https://github.com/SaimrRazaAly/HTML-CSS-JS-Work/blob/main/3dgb%20SAIM.png)
 
 ---
 
 ## 🚀 Projects
 
-<div style="display: flex; flex-direction: row; justify-content: space-around; flex-wrap: wrap; gap: 20px; padding: 20px;">
+### [Brainwave](https://brainwave-gold-nine.vercel.app/)
+An innovative project showcasing my expertise in front-end development, built with modern technologies and a focus on usability and performance.
 
-  <div style="background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 30%; padding: 20px; text-align: center; transition: transform 0.3s ease;">
-    <h3><a href="https://brainwave-gold-nine.vercel.app/" style="text-decoration: none; color: #007bff;">Brainwave</a></h3>
-    <p>A sleek web app focused on usability and performance.</p>
-  </div>
+[![Brainwave Screenshot](https://i.ibb.co/Kqdv8j1/Image-from.png)](https://brainwave-gold-nine.vercel.app/)
 
-  <div style="background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 30%; padding: 20px; text-align: center; transition: transform 0.3s ease;">
-    <h3><a href="https://food-dilevery-omega.vercel.app/" style="text-decoration: none; color: #007bff;">Food Delivery App</a></h3>
-    <p>A project made with React and Context API showcasing awesome features of a modern and responsive web app.</p>
-  </div>
 
-  <div style="background-color: #f8f9fa; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); width: 30%; padding: 20px; text-align: center; transition: transform 0.3s ease;">
-    <h3><a href="https://ev-landing-page-using-react.vercel.app/" style="text-decoration: none; color: #007bff;">Ev Landing Page</a></h3>
-    <p>A project with an awesome hero section for an EV car company.</p>
-  </div>
+## 📈 GitHub Stats
 
+<!-- GitHub Stats -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaimrRazaAly&show_icons=true&theme=radical" alt="Saim Raza's GitHub Stats"/>
 </div>
 
+---
 
-## 🌐 Connect  
-<p align="left">
-  <a href="https://www.linkedin.com/in/saim-raza-610511327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white&logoWidth=20" />
-  </a>
-</p>
+## 🏅 Languages & Tools
 
-✨ **Let’s build something amazing!** 🚀  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn Profile](https://www.linkedin.com/in/saim-raza-610511327/)
+
+---
+
+✨ **Let’s build something amazing together!**
