@@ -30,7 +30,6 @@ An innovative project showcasing my expertise in front-end development, built wi
 [![Brainwave Screenshot](https://i.ibb.co/Kqdv8j1/Image-from.png)](https://brainwave-gold-nine.vercel.app/)
 
 
----
 
 ## 🏅 Languages & Tools
 
