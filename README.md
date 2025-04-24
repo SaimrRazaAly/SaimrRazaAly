@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saim Raza
+# 👋 Hi, I'm Saim Raza <a  href="https://potfolio-beryl-zeta.vercel.app/">Protfolio</a>
 
 Welcome to my GitHub profile!  
 I'm a passionate **Frontend Developer** with expertise in crafting modern, responsive, and user-friendly web applications.  
@@ -21,13 +21,6 @@ With a strong foundation in **HTML, CSS, JavaScript, and TypeScript**, I special
 - **Certifications:** [Frontend Development](https://github.com/SaimrRazaAly/HTML-CSS-JS-Work/blob/main/3dgb%20SAIM.png)
 
 ---
-
-## 🚀 Projects
-
-### [Brainwave](https://brainwave-gold-nine.vercel.app/)
-An innovative project showcasing my expertise in front-end development, built with modern technologies and a focus on usability and performance.
-
-[![Brainwave Screenshot](https://i.ibb.co/Kqdv8j1/Image-from.png)](https://brainwave-gold-nine.vercel.app/)
 
 
 
